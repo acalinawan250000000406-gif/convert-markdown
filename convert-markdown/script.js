@@ -5,7 +5,7 @@ const copyBtn = document.getElementById("copy-btn");
 const clearBtn = document.getElementById("clear-btn");
 
 // Starter sample Markdown text for instant visualization
-const sampleMarkdown = `# Welcome to Markdown Studio!
+const sampleMarkdown = `# Welcome to Calinawan Markdown Studio!
 
 ## Easy Formatting
 Write **bold text**, *italic text*, or [links](https://google.com).
